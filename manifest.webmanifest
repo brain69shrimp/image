@@ -1,8 +1,0 @@
-{
-"name":"Fullscreen Image",
-"short_name":"Image",
-"display":"standalone",
-"background_color":"#000000",
-"theme_color":"#000000",
-"start_url":"./"
-}
